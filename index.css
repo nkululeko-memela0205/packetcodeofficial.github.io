@@ -1331,13 +1331,6 @@
   text-align: center;
   font-weight: 500;
 }
-.home-text053 {
-  color: var(--dl-color-scheme-white);
-  text-align: center;
-}
-.home-text054 {
-  text-align: center;
-}
 .home-numbers-container01 {
   width: 100%;
   display: grid;
@@ -3017,8 +3010,11 @@
     width: 25px;
     height: 55px;
   }
-  .home-text053 {
+  .home-text052 {
     color: var(--dl-color-scheme-white);
+  }
+  .home-text056 {
+    font-size: 12px;
   }
   .home-container049 {
     width: 106px;
