@@ -43,6 +43,7 @@
 
 
 
+
 @media(max-width: 767px) {
   .navigation-links-nav {
     align-items: flex-start;
@@ -167,7 +168,6 @@
   width: var(--dl-size-size-xsmall);
   height: var(--dl-size-size-xsmall);
 }
-
 @media(max-width: 991px) {
   .navigation-nav {
     display: none;
