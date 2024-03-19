@@ -1,0 +1,21 @@
+.slide1-slide {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.slide1-max-wdith {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+.slide1-text {
+  color: var(--dl-color-scheme-white);
+}
+.slide1-max-wdith1 {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+.slide1-text1 {
+  color: var(--dl-color-scheme-white);
+}
