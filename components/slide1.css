@@ -19,3 +19,6 @@
 .slide1-text1 {
   color: var(--dl-color-scheme-white);
 }
+.slide1-root-class-name {
+  background-color: #000cff;
+}
