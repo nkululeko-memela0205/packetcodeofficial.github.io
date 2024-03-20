@@ -1,21 +1,22 @@
-.slide1-slide {
+.slide3-slide {
   position: relative;
   align-items: center;
   justify-content: center;
+  background-color: #0016ff;
 }
-.slide1-max-wdith {
+.slide3-max-wdith {
   flex: 0 0 auto;
   display: flex;
   flex-direction: column;
 }
-.slide1-text {
+.slide3-text {
   color: var(--dl-color-scheme-white);
 }
-.slide1-max-wdith1 {
+.slide3-max-wdith1 {
   flex: 0 0 auto;
   display: flex;
   flex-direction: column;
 }
-.slide1-text1 {
+.slide3-text1 {
   color: var(--dl-color-scheme-white);
 }

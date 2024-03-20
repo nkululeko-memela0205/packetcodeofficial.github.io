@@ -22,12 +22,6 @@
 .slide-root-class-name4 {
   background-color: #0D1F3A;
 }
-.slide-root-class-name5 {
-  background-color: var(--dl-color-scheme-lightblue);
-}
-.slide-root-class-name6 {
-  background-color: var(--dl-color-scheme-black);
-}
 @media(max-width: 991px) {
   .slide-root-class-name4 {
     background-color: #0D1F3A;
