@@ -1,0 +1,14 @@
+.slide5-slide {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  background-color: #0016ff;
+}
+.slide5-max-wdith {
+  flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+}
+.slide5-text {
+  color: var(--dl-color-scheme-white);
+}
