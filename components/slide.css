@@ -10,20 +10,3 @@
 .slide-text {
   color: var(--dl-color-scheme-white);
 }
-.slide-root-class-name {
-  background-color: #ff9b1d;
-}
-.slide-root-class-name1 {
-  background-color: #15bd19;
-}
-.slide-root-class-name2 {
-  background-color: #FB275A;
-}
-.slide-root-class-name4 {
-  background-color: #0D1F3A;
-}
-@media(max-width: 991px) {
-  .slide-root-class-name4 {
-    background-color: #0D1F3A;
-  }
-}
