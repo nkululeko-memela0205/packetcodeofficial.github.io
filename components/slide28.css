@@ -671,6 +671,9 @@
 .slide28-root-class-name {
   display: none;
 }
+.slide28-root-class-name1 {
+  display: none;
+}
 @media(max-width: 1600px) {
   .slide28-container03 {
     width: 150px;

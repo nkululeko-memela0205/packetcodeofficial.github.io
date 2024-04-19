@@ -671,6 +671,9 @@
 .slide41-root-class-name {
   display: none;
 }
+.slide41-root-class-name1 {
+  display: none;
+}
 @media(max-width: 1600px) {
   .slide41-container03 {
     width: 150px;

@@ -674,6 +674,9 @@
 .slide46-root-class-name {
   display: none;
 }
+.slide46-root-class-name1 {
+  display: none;
+}
 @media(max-width: 1600px) {
   .slide46-slide {
     background-color: var(--dl-color-scheme-lightblue);
