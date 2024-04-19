@@ -671,6 +671,9 @@
 .slide-w22-root-class-name {
   display: none;
 }
+.slide-w22-root-class-name1 {
+  display: none;
+}
 @media(max-width: 1600px) {
   .slide-w22-container03 {
     width: 150px;
